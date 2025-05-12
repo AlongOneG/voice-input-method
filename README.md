@@ -6,7 +6,7 @@
 
 点击繁简转换按钮，文本框中的内容会进行繁简转换，并将转换结果复制到剪贴板
 
-本项目基于python3.10开发，要求有桌面环境，推荐kde。windodows下也可以运行
+本项目基于python3.10开发，要求有桌面环境，推荐kde。windodows下也可以运行（windows仅在python3.10.6测试有效）
 # 安装 <!-- by 宋宇轩5yGit -->
 首先切换到RTXIME目录
 ```shell
