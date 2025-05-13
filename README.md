@@ -26,7 +26,7 @@ sudo apt-get install xdotool
 ```shell
 python3 -m venv venv
 
-# 安装依赖
+# 安装依赖 （韦向）
 venv/bin/pip install -r requirements.txt
 ```
 
