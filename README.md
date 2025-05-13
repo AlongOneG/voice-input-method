@@ -30,7 +30,7 @@ venv/bin/pip install -r requirements.txt
 
 运行`model_export.py`
 
-之后根据导出ONNX模型的目录，更改`Qt_ONNX_windows_style.py`文件的`model_dir`，确保一致，以便正常加载模型
+之后根据导出ONNX模型的目录，更改`Rtxime.py`文件的`model_dir`，确保一致，以便正常加载模型
 
 # 运行
 
