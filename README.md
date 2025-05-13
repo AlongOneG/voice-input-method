@@ -36,11 +36,24 @@ venv/bin/pip install -r requirements.txt
 
 之后根据导出ONNX模型的目录，更改`Qt_ONNX_windows_style.py`文件的`model_dir`，确保一致，以便正常加载模型
 
-# 运行
+# 运行<!-- by 韦承朝 -->
 
 如果是X11或windodows环境，使用虚拟环境运行`Qt_ONNX_windows_style.py`即可，全局热键默认为 Scroll Lock 键，长按即可输入
 
 如果是Wayland环境，使用虚拟环境运行`KDE_Wayland.py`即可，全局热键默认为 Scroll Lock 键，长按即可输入
+
+
+# 运行
+
+X11 或 Windows 环境
+使用虚拟环境运行 Qt_ONNX_windows_style.py：
+
+venv/bin/python Qt_ONNX_windows_style.py
+
+Wayland 环境
+
+使用虚拟环境运行 KDE_Wayland.py：
+venv/bin/python KDE_Wayland.py
 
 # 与rime-ice输入法联动
 
