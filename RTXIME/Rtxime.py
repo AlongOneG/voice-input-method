@@ -106,7 +106,7 @@ class MyWindow(QWidget):
         self.recorder = QProcess()
 
         # 初始化模型
-        model_dir = "/home/pofice/.cache/modelscope/hub/iic/speech_seaco_paraformer_large_asr_nat-zh-cn-16k-common-vocab8404-pytorch/"
+        model_dir = r"C:\Users\ASUS\.cache\modelscope\hub\models\iic\speech_seaco_paraformer_large_asr_nat-zh-cn-16k-common-vocab8404-pytorch"
         self.model = SeacoParaformer(model_dir, batch_size=1, quantize=True)
 
         # Load hotwords once during initialization

@@ -43,11 +43,11 @@ venv\Scripts\pip install -r win_requirements.txt
 
 Windows 系统下的虚拟环境激活脚本路径与 Linux/macOS 不同，因此需要使用 venv\Scripts\pip 而不是 venv/bin/pip。
 
-## 在运行之前，我们需要导出ONNX模型
+## 在运行之前，我们需要导出ONNX模型<!-- by 陈泳坤 -->
 
 运行`model_export.py`
 
-之后根据导出ONNX模型的目录，更改`Qt_ONNX_windows_style.py`文件的`model_dir`，确保一致，以便正常加载模型
+之后根据导出ONNX模型的目录，更改`Rtxime.py`文件的`model_dir`，确保一致，以便正常加载模型
 
 # 运行<!-- by 韦承朝 -->
 
