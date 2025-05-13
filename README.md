@@ -26,7 +26,7 @@ sudo apt-get install xdotool
 ```shell
 python3 -m venv venv
 
-# 安装依赖 （韦向）
+# 安装依赖
 venv/bin/pip install -r requirements.txt
 ```
 
@@ -45,15 +45,17 @@ venv/bin/pip install -r requirements.txt
 
 # 运行
 
-X11 或 Windows 环境
+#X11 或 Windows 环境
 使用虚拟环境运行 Qt_ONNX_windows_style.py：
-
 venv/bin/python Qt_ONNX_windows_style.py
 
-Wayland 环境
-
+#Wayland 环境
 使用虚拟环境运行 KDE_Wayland.py：
 venv/bin/python KDE_Wayland.py
+
+#全局热键
+默认热键：Scroll Lock 键
+操作方式：长按 Scroll Lock 键即可触发输入功能。
 
 # 与rime-ice输入法联动
 
