@@ -29,6 +29,19 @@ python3 -m venv venv
 # 安装依赖 （韦向）
 venv/bin/pip install -r requirements.txt
 ```
+安装依赖
+根据操作系统，我们需要安装不同的依赖文件。项目提供了两个依赖文件：requirements.txt 用于 Linux 和 macOS，win_requirements.txt 用于 Windows
+Linux 和 macOS
+在 Linux 和 macOS 系统下，运行以下命令来安装依赖：
+Shell
+venv/bin/pip install -r requirements.txt
+
+Windows
+在 Windows 系统下，运行以下命令来安装依赖：
+Shell
+venv\Scripts\pip install -r win_requirements.txt
+
+Windows 系统下的虚拟环境激活脚本路径与 Linux/macOS 不同，因此需要使用 venv\Scripts\pip 而不是 venv/bin/pip。
 
 ## 在运行之前，我们需要导出ONNX模型
 
