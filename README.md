@@ -26,7 +26,7 @@ python3 -m venv venv
 venv/bin/pip install -r requirements.txt
 ```
 
-## 在运行之前，我们需要导出ONNX模型
+## 在运行之前，我们需要导出ONNX模型<!-- by 陈泳坤 -->
 
 运行`model_export.py`
 
