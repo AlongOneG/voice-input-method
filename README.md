@@ -93,3 +93,7 @@ https://github.com/pofice/linux-voice-input-method-2
 
 funASR出处
 https://github.com/alibaba-damo-academy/FunASR
+
+
+# 项目代码版权所有 庞朝阳
+<!-- by 庞朝阳 -->
