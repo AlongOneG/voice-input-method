@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0d5620e5-e42f-4c9f-8d75-39215c2d8c47)# 基于funASR的低延迟离线语音输入法
+# 基于funASR的低延迟离线语音输入法
 
 ![Demo webpage](demo/rtxim.png)
 
