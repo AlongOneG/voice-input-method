@@ -1,4 +1,5 @@
 太好了！以下是你提供的 README 的英文翻译版本，保留了原有结构，并尽量让语义自然、简洁，适合在 GitHub 等平台发布。
+<!-- by韦泉宇-->
 
 ---
 
@@ -116,4 +117,3 @@ If you want to input text on your PC using your phone’s voice input:
 
 ---
 
-如果你需要，我也可以帮你生成一个中英双语版本或美化排版。你想要我继续吗？
