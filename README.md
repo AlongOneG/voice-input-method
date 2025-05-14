@@ -1,4 +1,4 @@
-# 基于funASR的低延迟离线语音输入法
+![image](https://github.com/user-attachments/assets/0d5620e5-e42f-4c9f-8d75-39215c2d8c47)# 基于funASR的低延迟离线语音输入法
 
 ![Demo webpage](demo/rtxim.png)
 
@@ -93,3 +93,7 @@ https://github.com/pofice/linux-voice-input-method-2
 
 funASR出处
 https://github.com/alibaba-damo-academy/FunASR
+
+
+# 项目代码版权所有 庞朝阳
+<!-- by 庞朝阳 -->
